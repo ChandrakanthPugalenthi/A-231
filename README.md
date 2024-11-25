@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is created as part of the semester project for the [**University of Hertfordshire**]() under the subject **Team Research and Development**.
+This repository is created as part of the semester project for the [**University of Hertfordshire**](https://www.herts.ac.uk) under the subject **Team Research and Development**.
 
 - **Subject Name:** Team Research and Development  
 - **Subject Code:** 7COM1079-2024  
