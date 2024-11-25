@@ -69,11 +69,11 @@ This repository is linked with **GitHub Pages** for deployment and version contr
 ## Authors
 
 - **Chandrakanth Pugalenthi**  
-  MSc Student, University of Hertfordshire  
-- **gtpraveenraj**  
-  MSc Student, University of Hertfordshire  
+  MSc Student, University of Hertfordshire
 - **Gurucharan24**  
-  MSc Student, University of Hertfordshire  
+  MSc Student, University of Hertfordshire 
+- **gtpraveenraj**  
+  MSc Student, University of Hertfordshire   
 - **Lovelysathya**  
   MSc Student, University of Hertfordshire  
 - **shabarish1726**  
