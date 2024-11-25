@@ -1,9 +1,14 @@
+Here is the updated and finalized README file, incorporating your course name and collaborators:
+
+---
+
 # 2020 US General Election Turnout Rates
 
 ## Overview
 
 This repository is created as part of the semester project for the [**University of Hertfordshire**](https://www.herts.ac.uk) under the subject **Team Research and Development**.
 
+- **Course Name:** MSc Cyber Security  
 - **Subject Name:** Team Research and Development  
 - **Subject Code:** 7COM1079-2024  
 - **Language Used:** R  
@@ -35,7 +40,7 @@ The dataset contains columns such as:
 
 ## Deployment Information
 
-This repository is linked with **GitHub Pages** for deployment and version control:   
+This repository is linked with **GitHub Pages** for deployment and version control:  
 - **GitHub Pages Status:** Active
 
 ## Getting Started
@@ -48,6 +53,7 @@ This repository is linked with **GitHub Pages** for deployment and version contr
 1. Clone this repository:  
    ```bash
    git clone https://github.com/ChandrakanthPugalenthi/A-231.git
+   ```
 2. Open the R project file (`A-231.Rproj`) in RStudio.
 3. Run the scripts to load and analyze the dataset.
 
@@ -55,25 +61,28 @@ This repository is linked with **GitHub Pages** for deployment and version contr
 
 ```
 ├── Dataset/                                                      # Contains raw and processed datasets
-│   └── 2020 November General Election - Turnout Rates .csv       # Cleaned or processed dataset files
+│   └── 2020 November General Election - Turnout Rates.csv        # Cleaned or processed dataset files
 ├── Research_question/                                            # Supporting documents and analysis questions
-│   └── reseach_question_presentation.pptx                        # Pptx File
-├── git_log.xlsx                                                  # Git logs or other progress tracking files 
+│   └── reseach_question_presentation.pptx                        # Presentation file
+├── git_log.xlsx                                                  # Git logs or other progress tracking files
 ├── .gitignore                                                    # Ignored files and directories
 ├── A-231.Rproj                                                   # R project file
 └── README.md                                                     # Project description
-
 ```
 
 ## Authors
 
-- **Chandrakanth Pugalenthi**
+- **Chandrakanth Pugalenthi**  
   MSc Student, University of Hertfordshire  
-- **gtpraveenraj**
-  MSc Student, University of Hertfordshire 
-- **Gurucharan24**
-  MSc Student, University of Hertfordshire 
-- **Lovelysathya**
-  MSc Student, University of Hertfordshire 
-- **shabarish1726**
-  MSc Student, University of Hertfordshire 
+- **gtpraveenraj**  
+  MSc Student, University of Hertfordshire  
+- **Gurucharan24**  
+  MSc Student, University of Hertfordshire  
+- **Lovelysathya**  
+  MSc Student, University of Hertfordshire  
+- **shabarish1726**  
+  MSc Student, University of Hertfordshire  
+
+---
+
+This README is now complete and ready to be added to your GitHub repository. Let me know if any additional modifications are required!
