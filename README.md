@@ -26,7 +26,7 @@ The dataset contains columns such as:
 - `VEP Turnout Rate`  
 - `Voting-Eligible Population (VEP)`  
 - `Voting-Age Population (VAP)`  
-- 'Other relevant metrics like non-citizen percentages, parole counts, and more.'
+- `Other relevant metrics like non-citizen percentages, parole counts, and more.`
 
 ## Objectives
 
