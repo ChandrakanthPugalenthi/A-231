@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is created as part of the semester project for the **University of Hertfordshire** under the subject **Team Research and Development**.
+This repository is created as part of the semester project for the [**University of Hertfordshire**]() under the subject **Team Research and Development**.
 
 - **Subject Name:** Team Research and Development  
 - **Subject Code:** 7COM1079-2024  
@@ -47,8 +47,7 @@ This repository is linked with **GitHub Pages** for deployment and version contr
 ### Installation
 1. Clone this repository:  
    ```bash
-   git clone [https://github.com/ChandrakanthPugalenthi/A-231.git](https://www.kaggle.com/datasets/imoore/2020-us-general-election-turnout-rates)
-   ```
+   git clone https://github.com/ChandrakanthPugalenthi/A-231.git
 2. Open the R project file (`A-231.Rproj`) in RStudio.
 3. Run the scripts to load and analyze the dataset.
 
