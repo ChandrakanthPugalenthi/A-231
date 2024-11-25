@@ -84,5 +84,3 @@ This repository is linked with **GitHub Pages** for deployment and version contr
   MSc Student, University of Hertfordshire  
 
 ---
-
-This README is now complete and ready to be added to your GitHub repository. Let me know if any additional modifications are required!
