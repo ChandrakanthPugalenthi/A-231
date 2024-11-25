@@ -1,7 +1,3 @@
-Here is the updated and finalized README file, incorporating your course name and collaborators:
-
----
-
 # 2020 US General Election Turnout Rates
 
 ## Overview
