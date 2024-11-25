@@ -68,7 +68,7 @@ This repository is linked with **GitHub Pages** for deployment and version contr
 
 ## Authors
 
-- **Chandrakanth Pugalenthi**  
+- **Chandrakanth Pugalenthi**
   MSc Student, University of Hertfordshire  
 - **gtpraveenraj**
   MSc Student, University of Hertfordshire 
