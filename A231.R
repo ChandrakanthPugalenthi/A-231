@@ -3,7 +3,7 @@ library(ggplot2)
 library(dplyr)
 
 # Load the dataset
-data <- read.csv("C:/Users/wolfr/Downloads/2020 November General Election - Turnout Rates (2).csv")
+data <- read.csv("C:/Users/wolfr/Downloads/2020 November General Election - Turnout Rates.csv")
 
 data$State <- as.factor(data$State) 
 data$VoterTurnoutRate <- as.numeric(sub("%", "", data$VEP.Turnout.Rate))
