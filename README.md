@@ -77,5 +77,5 @@ This repository is linked with **GitHub Pages** for deployment and version contr
 - **Lovelysathya**  
   MSc Student, University of Hertfordshire  
 - **shabarish1726**  
-  MSc Student, University of Hertfordshire  
+  MSc Student, University of Hertfordshire
 
