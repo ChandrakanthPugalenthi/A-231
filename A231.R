@@ -21,4 +21,4 @@ ggplot(data, aes(x = VoterTurnoutRate)) +
   labs(title = "Voter Turnout Rate Distribution with Density Curve",
        x = "Voter Turnout Rate (%)",
        y = "Density") +
-  theme_minimal() 
+  theme_minimal()
