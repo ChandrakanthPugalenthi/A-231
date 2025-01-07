@@ -5,7 +5,6 @@ library(dplyr)
 # Load the dataset
 data <- read.csv("C:/Users/wolfr/Downloads/2020 November General Election - Turnout Rates (2).csv")
 
-# Ensure 'State' is a factor and convert 'VEP Turnout Rate' to numeric
 data$State <- as.factor(data$State) 
 data$VoterTurnoutRate <- as.numeric(sub("%", "", data$VEP.Turnout.Rate))
 
