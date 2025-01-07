@@ -1,8 +1,8 @@
-# Load required libraries
+# libraries
 library(ggplot2)
 library(dplyr)
 
-# Load the dataset
+# dataset
 data <- read.csv("C:/Users/wolfr/Downloads/2020 November General Election - Turnout Rates.csv")
 
 data$State <- as.factor(data$State) 
